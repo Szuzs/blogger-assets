@@ -3,3 +3,6 @@ title: Blogger assets
 description: Useful assets for customizing Google's Blogger
 show-downloads: true
 google_analytics: UA-84496102-2
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
