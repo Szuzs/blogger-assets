@@ -3,3 +3,4 @@ todo.txt
 Gemfile
 Gemfile.lock
 docs/_site
+*.sublime-*
