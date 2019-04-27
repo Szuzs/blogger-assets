@@ -1,1 +1,1 @@
-# Githib pages README file
+# Github pages README file
