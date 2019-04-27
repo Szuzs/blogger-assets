@@ -4,3 +4,4 @@ Gemfile
 Gemfile.lock
 docs/_site
 *.sublime-*
+tests/
